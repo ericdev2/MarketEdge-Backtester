@@ -33,7 +33,7 @@ Usage
 
 Run the main script to execute backtesting with predefined strategies:
 
-python src/main.py
+Drag Folder to desktop then type "cd desktop/
 
 Requirements
 
