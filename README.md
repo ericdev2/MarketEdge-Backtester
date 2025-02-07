@@ -33,7 +33,9 @@ Usage
 
 Run the main script to execute backtesting with predefined strategies:
 
-Drag Folder to desktop then type "cd desktop/
+Drag Folder to desktop then type "cd desktop/MarketEdge-Backtester"
+
+Run the program by typing "python3 main.py"
 
 Requirements
 
