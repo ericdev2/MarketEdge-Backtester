@@ -33,7 +33,7 @@ Usage
 
 Run the main script to execute backtesting with predefined strategies:
 
-Drag Folder to desktop then type "cd desktop/MarketEdge-Backtester"
+Drag Folder to desktop then type "cd desktop/MarketEdge-Backtester" or "cd desktop/MarketEdge-Backtester-main" (if you downloaded the zip file)
 
 Run the program by typing "python3 main.py"
 
