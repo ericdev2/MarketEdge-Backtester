@@ -33,9 +33,16 @@ Usage
 
 Run the main script to execute backtesting with predefined strategies:
 
-Drag Folder to desktop then type "cd desktop/MarketEdge-Backtester" or "cd desktop/MarketEdge-Backtester-main" (if you downloaded the zip file)
+Drag the folder to your desktop then type "cd desktop/MarketEdge-Backtester" or "cd desktop/MarketEdge-Backtester-main" (if you downloaded the zip file)
 
 Run the program by typing "python3 main.py"
+
+If you want to change the ticker open the "main.py" file and look for this section.
+
+# Parameters
+ticker = "BTC"
+
+Change the ticker to any asset you want to use the program for.
 
 Requirements
 
