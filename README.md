@@ -40,6 +40,7 @@ Run the program by typing "python3 main.py"
 If you want to change the ticker open the "main.py" file and look for this section.
 
 #Parameters
+
 ticker = "BTC"
 
 Change the ticker to any asset you want to use the program for.
